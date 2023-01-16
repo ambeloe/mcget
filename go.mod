@@ -1,4 +1,4 @@
-module mcget
+module github.com/ambeloe/mcget
 
 go 1.18
 
